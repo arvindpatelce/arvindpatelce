@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning JS, ReactJS
 - 📫 You can find me on LinkedIn - https://linkedin.com/in/arvindpatelce
-- 📫 You can reach me on Whatsapp - http://shorturl.at/cHTWZ
+- 📫 You can reach me on Whatsapp - +91 8369 210 878
 
 <!---
 arvindpatelce/arvindpatelce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
